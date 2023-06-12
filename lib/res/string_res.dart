@@ -1,0 +1,36 @@
+class StringRes {
+  static const login = "Login";
+  static const appName = 'Flutter Demo';
+  static const username = 'Username';
+  static const password = 'Password';
+  static const addSiswa = "Buat Siswa";
+  static const editSiswa = "Edit Siswa";
+  static const firstName = "First Name";
+  static const lastName = "Last Name";
+  static const phoneNumber = "Phone Number";
+  static const birthDate = "Birth Date";
+  static const address = "Address";
+  static const gender = "Jenis Kelamin";
+  static const pria = "Pria";
+  static const wanita = "Wanita";
+  static const hobi = "Hobi";
+  static const welcome = "Welcome !";
+  static const fillTheForm = "Please Fill The Form";
+  static const grade = "Grade";
+  static const name = "Name";
+  static const edit = "Edit";
+  static const delete = "Delete";
+  static const save = "Save";
+  static const search = "Search";
+  static const unknownError = "Unknown Error";
+  static const deleteSuccess = "Delete Data Success";
+  static const deleteConfrimation = "Delete Confirmation";
+  static const confirm = "Confirm";
+  static const cancel = "Cancel";
+  static const required = "Required data";
+  static const invalidPhoneNumber = "Invalid Phone Number";
+  static const invalidBirthDate = "Invalid Birth Date";
+  static const minDateReached = "Minimal Date Reached";
+  static const maxDateReached = "Maximum Date Reached";
+  static const notRecorded = "No Data Recorded";
+}
